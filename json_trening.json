@@ -1,0 +1,1 @@
+{"employees": [{"id": 14235, "name": "Bob", "date_of_birth": "1982-04-15", "department": "Sales"}, {"id": 28134, "name": "Susan", "date_of_birth": "1991-09-01", "department": "IT"}, {"id": 89231, "name": "Andrew", "date_of_birth": "1990-02-15", "department": "Sales"}], "departments": ["Sales", "IT", "HR"]}
